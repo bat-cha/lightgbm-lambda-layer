@@ -1,5 +1,5 @@
 # lightgbm-lambda-layer
-An example Lambda Layer containing LigthGBM
+An example Lambda Layer containing LigthGBM (and pandas)
 
 ## usage
 

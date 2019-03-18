@@ -1,3 +1,3 @@
-FROM lambci/lambda:build-python3.6
+FROM lambci/lambda:build-python3.7
 
-RUN pip install --target=/opt/python/ lightgbm
+RUN pip install --target=/opt/python/ pandas lightgbm
